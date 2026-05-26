@@ -490,4 +490,6 @@ The `.env` file is also not included for security reasons. A local `.env` file m
 
 ## Author
 
+Konstantinos Bougioukos
+UEL Number: 2879914
 Developed for the CN6035 Mobile & Distributed Systems coursework.
